@@ -1,0 +1,16 @@
+h2 {
+    color: darkblue;
+}
+
+.alert-text {
+    color: darkred;
+    font-weight: 700;
+    text-decoration: underline;
+    background-color: lightblue; width: 30%;
+}
+
+em {
+    color: black;
+    outline: 3px ridge darkorange;
+    font-weight: 700;
+}
